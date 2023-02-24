@@ -1,6 +1,5 @@
 package string;
 import org.example.CounterClass;
-
 import java.io.*;
 import java.util.Objects;
 
@@ -53,7 +52,7 @@ public class StringUsage {
     }
 
     private static void printDuplicateWords(String str) throws IOException {
-        File file = new File("D:\\usarb\\OOP2\\pooJavaLabs\\LABP1\\src\\main\\resources\\output.txt");
+        File file = new File("D:\\usarb\\OOP2\\OOP2-JavaLanguage\\LABP1\\src\\main\\resources\\output.txt");
         FileWriter writer = new FileWriter(file, true);
         str = str.toLowerCase();
         int count;
@@ -76,8 +75,8 @@ public class StringUsage {
     }
 
     public static void main(String[] args) throws IOException {
-        File file = new File("D:\\usarb\\OOP2\\pooJavaLabs\\LABP1\\src\\main\\resources\\input.txt");
-        File fileOutput = new File("D:\\usarb\\OOP2\\pooJavaLabs\\LABP1\\src\\main\\resources\\output.txt");
+        File file = new File("D:\\usarb\\OOP2\\OOP2-JavaLanguage\\LABP1\\src\\main\\resources\\input.txt");
+        File fileOutput = new File("D:\\usarb\\OOP2\\OOP2-JavaLanguage\\LABP1\\src\\main\\resources\\output.txt");
         FileReader fileReader = new FileReader(file);
         FileWriter writer = new FileWriter(fileOutput);
         BufferedReader bufferedReader = new BufferedReader(fileReader);
