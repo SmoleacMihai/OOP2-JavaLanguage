@@ -1,0 +1,8 @@
+
+Your phrase to uppercase: ala ala portocala cine a mancat banana
+Your phrase to lowercase: ala ala portocala cine a mancat banana
+Your phrase length: 38
+Number of vowels in your phrase: 16
+Number of consonants in your phrase: 16
+The word with max length from phrase is: portocala
+The word with min length from phrase is: a
