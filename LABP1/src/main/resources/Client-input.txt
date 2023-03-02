@@ -1,0 +1,6 @@
+Mihai|Smoleac|21/11/2002
+Dmitri|Cojocari|21/09/2001
+Denis|Adam|31/10/2002
+Vladislav|Maximenco|13/11/2002
+Igor|Costiuc|15/07/2002
+Dorin|Gavrilita|15/02/2002

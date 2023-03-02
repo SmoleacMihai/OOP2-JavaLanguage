@@ -1,0 +1,4 @@
+P001 | Milky Way
+P002 | CocaCola
+P003 | Lapte
+P012 | Vin rozov spumat
